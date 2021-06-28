@@ -1,0 +1,1986 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Da",
+				"DateTime"
+			],
+			[
+				"a",
+				"addFilter"
+			],
+			[
+				"link",
+				"links"
+			],
+			[
+				"bi",
+				"md:border-indigo-200 "
+			],
+			[
+				"transfor",
+				"transform "
+			],
+			[
+				"af",
+				"j.afn"
+			],
+			[
+				"Ho",
+				"HomePage"
+			],
+			[
+				"rfc",
+				"rfce"
+			],
+			[
+				"Landi",
+				"LandingPageLayout"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"inne",
+				"innerWidth"
+			],
+			[
+				"pag",
+				"pages/"
+			],
+			[
+				"i",
+				"items-center"
+			],
+			[
+				"js",
+				"menu.js"
+			],
+			[
+				"page",
+				"pages/"
+			],
+			[
+				"bg-ye",
+				"bg-yellow-300 "
+			],
+			[
+				"ju",
+				"justify-between "
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"react",
+				"react-router-dom"
+			],
+			[
+				"rfce",
+				"rafc,rafce"
+			],
+			[
+				"h-",
+				"h-16"
+			],
+			[
+				"justify",
+				"justify-between"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"div",
+				"div className=\""
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"htmlbo",
+				"htmlboiler"
+			],
+			[
+				"re",
+				"reduce"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"A",
+				"Array.from"
+			],
+			[
+				"le",
+				"letters"
+			],
+			[
+				"hello",
+				"hello, world"
+			],
+			[
+				"bas",
+				"base+2,"
+			],
+			[
+				"funcs",
+				"funcs[5"
+			],
+			[
+				"func",
+				"funcs"
+			],
+			[
+				"10",
+				"10; i++) funcs[i"
+			],
+			[
+				"pe",
+				"predicate"
+			],
+			[
+				"function",
+				"function(v) {"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"coutner",
+				"counter"
+			],
+			[
+				"uni",
+				"uniqueInteger():"
+			],
+			[
+				"checkS",
+				"checkScope"
+			],
+			[
+				"ope",
+				"operate"
+			],
+			[
+				"unk",
+				"unknown"
+			],
+			[
+				"op",
+				"operators"
+			],
+			[
+				"path",
+				"pathogenic"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"this",
+				"this.name"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"const",
+				"console.log(\"this.name"
+			],
+			[
+				"oper",
+				"operand1"
+			],
+			[
+				"te",
+				"text-color"
+			],
+			[
+				"font-w",
+				"font-weights"
+			],
+			[
+				"medium",
+				"medium\": 400,"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pri",
+				"primary-color"
+			],
+			[
+				"main",
+				"main.css"
+			],
+			[
+				"exte",
+				"extends:"
+			],
+			[
+				"Con",
+				"Container ="
+			],
+			[
+				"github",
+				"github"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"My",
+				"MyDocument"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"gutt",
+				"gutterBottom"
+			],
+			[
+				"T",
+				"Typography"
+			],
+			[
+				"class",
+				"className=\""
+			],
+			[
+				"cli",
+				"click=\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": " \n ",
+			"settings":
+			{
+				"buffer_size": 3,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": ".eleventy.js",
+			"settings":
+			{
+				"buffer_size": 492,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAOwBAAAAAAAA7QEAAAAAAAAAAAAA7QEAAAAAAAD5AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AEAAAAAAADsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAPkBAAAAAAAA+gEAAAAAAAAAAAAA+gEAAAAAAAAGAgAAAAAAAAAAAADtAQAAAAAAAO0BAAAAAAAADAAAACAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAA+QEAAAAAAAD5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"smart_backspace",
+					null,
+					"AQAAAAoCAAAAAAAACgIAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAACwIAAAAAAAALAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"htmlprettify",
+					null,
+					"AQAAAAAAAAAAAAAA+AEAAAAAAAAVAgAAbXVkdWxlLmV4cG9ydHMgPSBmdW5jdGlvbihlbGV2ZW50eUNvbmZpZykgewogICAgZWxldmVudHlDb25maWcuYWRkUGFzc3Ryb3VnaENvcHkoJ2ltYWdlcycpCiAgICBlbGV2ZW50eUNvbmZpZy5hZGRQYXNzdHJvdWdoQ29weSgnYWRtaW4nKQoKICAgIGNvbnN0IHsgRGF0ZVRpbWUgfSA9IHJlcXVpcmUoImx1eG9uIikKCiAgICBlbGV2ZW50eUNvbmZpZy5hZGRGaWx0ZXIoJ2h0bWxEYXRlU3RyaW5nJywgKGRhdGVPYmopID0+IHsKICAgICAgICByZXR1cm4gRGF0ZVRpbWUuZnJvbUpTRGF0ZShkYXRlT2JqLCB7CiAgICAgICAgICAgIHpvbmU6ICd1dGMnCgogICAgICAgIH0pLnRvRm9ybWF0KCd5eS1NTS1kZCcpCiAgICB9KQoKICAgIGVsZXZlbnR5Q29uZmlnLmFkZEZpbHRlcigicmVhZGFibGVEYXRlIiwgZGF0ZU9iaiA9PiB7CiAgICAgICAgcmV0dXJuIERhdGVUaW1lLmZyb21KU0RhdGUoZGF0ZU9iaiksIHsKICAgICAgICAgICAgem9uZTogInV0YyIgICAgICAgICAgCgogICAgICAgICAgICAgIH0gICAgCiAgICAgICAgCgogICAgfSkKfQo",
+					"AQAAAAAAAAABAAAACgIAAAAAAAAKAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					140,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFkBAAAAAAAAWgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					1,
+					"js_prettier",
+					{
+						"auto_format_prettier_config_path": null,
+						"save_file": true
+					},
+					"AQAAAPkBAAAAAAAA+gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOMBAAAAAAAA5AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOQBAAAAAAAA5AEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA5AEAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					187,
+					1,
+					"right_delete",
+					null,
+					"AQAAAO8BAAAAAAAA7wEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA7wEAAAAAAADvAQAAAAAAAAAAAAAAAGtA"
+				],
+				[
+					198,
+					1,
+					"right_delete",
+					null,
+					"AQAAAO8BAAAAAAAA7wEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA7wEAAAAAAADvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					204,
+					1,
+					"right_delete",
+					null,
+					"AQAAADkBAAAAAAAAOQEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAOQEAAAAAAAA5AQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					225,
+					1,
+					"right_delete",
+					null,
+					"AQAAADgBAAAAAAAAOAEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					248,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAADgBAAAAAAAAOQEAAAAAAAAAAAAAOQEAAAAAAABFAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					278,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPkBAAAAAAAA+gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QEAAAAAAAD5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					280,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPoBAAAAAAAA+wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gEAAAAAAAD6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					285,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AwAAAPkBAAAAAAAA+QEAAAAAAAACAAAAICDuAQAAAAAAAO4BAAAAAAAAAQAAACBkAQAAAAAAAGQBAAAAAAAAAQAAACA",
+					"AQAAAAAAAAABAAAA+wEAAAAAAAD7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					301,
+					1,
+					"right_delete",
+					null,
+					"AQAAADgBAAAAAAAAOAEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					336,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAADgBAAAAAAAAOQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					342,
+					1,
+					"right_delete",
+					null,
+					"AQAAADkBAAAAAAAAOQEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAOQEAAAAAAAA5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					344,
+					14,
+					"right_delete",
+					null,
+					"DgAAADkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIDkBAAAAAAAAOQEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAOQEAAAAAAAA5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					345,
+					1,
+					"smart_backspace",
+					null,
+					"AQAAADgBAAAAAAAAOAEAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAOQEAAAAAAAA5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					358,
+					1,
+					"right_delete",
+					null,
+					"AQAAADgBAAAAAAAAOAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					360,
+					1,
+					"right_delete",
+					null,
+					"AQAAADgBAAAAAAAAOAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					362,
+					3,
+					"right_delete",
+					null,
+					"AwAAADgBAAAAAAAAOAEAAAAAAAABAAAAIDgBAAAAAAAAOAEAAAAAAAABAAAAIDgBAAAAAAAAOAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					398,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAAOIBAAAAAAAA4wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gEAAAAAAADiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					402,
+					1,
+					"smart_backspace",
+					null,
+					"AQAAAOIBAAAAAAAA4gEAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"enap",
+				"Package Control: Enable Package"
+			],
+			[
+				"disp",
+				"Package Control: Disable Package"
+			],
+			[
+				"jspr",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"npm in",
+				"WebDevShell: NPM Install"
+			],
+			[
+				"gitig",
+				"git: ignore pattern"
+			],
+			[
+				"git ini",
+				"git: init"
+			],
+			[
+				"npm init",
+				"WebDevShell: NPM Init"
+			],
+			[
+				"sesam",
+				"Sesame: Open"
+			],
+			[
+				"live",
+				"Live Server: Stop"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"synunj",
+				"Set Syntax: Nunjucks"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"senun",
+				"Set Syntax: Nunjucks"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"tertab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"npmstar",
+				"WebDevShell: NPM Start"
+			],
+			[
+				"npmini",
+				"WebDevShell: NPM Init"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dip",
+				"Package Control: Disable Package"
+			],
+			[
+				"gitclo",
+				"git: clone"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"snmak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"termita",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"lspta",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"disp ",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"disls",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"suunde",
+				"Sublundo: Visualize"
+			],
+			[
+				"enablls",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"sebabe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"disp lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"syh",
+				"Set Syntax: HTML"
+			],
+			[
+				"helpe",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"helper",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"sesop",
+				"Sesame: Open"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"imphli",
+				"Import Helper: List imports"
+			],
+			[
+				"imph",
+				"Import Helper: List imports"
+			],
+			[
+				"imporhe",
+				"Import Helper: Insert import"
+			],
+			[
+				"snrfce",
+				"Snippet: reactArrowFunctionComponent"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"removepa",
+				"Conda: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"nav",
+				"File Navigator: Open"
+			],
+			[
+				"navi",
+				"File Navigator: Open"
+			],
+			[
+				"ream",
+				"ReadmePlease"
+			],
+			[
+				"apply",
+				"ApplySyntax: Browse Syntaxes"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"stylef",
+				"Run Stylefmt"
+			],
+			[
+				"syjx",
+				"Set Syntax: JSX"
+			],
+			[
+				"syba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sybabel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"syjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"git remo",
+				"git: remote add"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"findin",
+				"Find: In Project"
+			],
+			[
+				"sesy",
+				"Set Syntax: JSX"
+			],
+			[
+				"snus",
+				"Snippet: useEffect"
+			],
+			[
+				"snuse",
+				"Snippet: useEffect"
+			],
+			[
+				"snarro",
+				"Snippet: je - ES6 Arrow Function"
+			],
+			[
+				"",
+				"Add Folder"
+			],
+			[
+				"sius",
+				"Snippet: useState"
+			],
+			[
+				"impo",
+				"ImportJS: fix all imports"
+			],
+			[
+				"emrem",
+				"Emmet: Remove Tag"
+			],
+			[
+				"emmset",
+				"Preferences: Emmet Settings"
+			],
+			[
+				"emm",
+				"Emmet: Rename Tag"
+			],
+			[
+				"snirfce",
+				"Snippet: reactArrowFunctionComponent"
+			],
+			[
+				"snirf",
+				"Snippet: reactArrowFunctionComponent"
+			],
+			[
+				"emmse",
+				"Preferences: Emmet Settings"
+			],
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"tail",
+				"Tailwind Docs: Lists"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"Sesame: ",
+				"Session Manager: Save Session"
+			],
+			[
+				"sybab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"lsp-tail",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"emre",
+				"Emmet: Rename Tag"
+			],
+			[
+				"jsba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sundo",
+				"Sublundo: Visualize"
+			],
+			[
+				"emeet",
+				"Emmet: Rename Tag"
+			],
+			[
+				"ewra",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"emw",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"sybabe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"emmet",
+				"Emmet: Enter Abbreviation Mode"
+			],
+			[
+				"importjs",
+				"ImportJS: import word under cursor"
+			],
+			[
+				"imporjs",
+				"ImportJS: fix all imports"
+			],
+			[
+				"listimp",
+				"Import Helper: List imports"
+			],
+			[
+				"insertim",
+				"Import Helper: Insert import"
+			],
+			[
+				"impor",
+				"Import Helper: Insert import"
+			],
+			[
+				"disap",
+				"Package Control: Disable Package"
+			],
+			[
+				"emmex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"reamd",
+				"ReadmePlease"
+			],
+			[
+				"emmx",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emmese",
+				"Preferences: Emmet Settings"
+			],
+			[
+				"sesyjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"emma",
+				"Emmet: Enter Abbreviation Mode"
+			],
+			[
+				"insp",
+				"Conda: Install Package"
+			],
+			[
+				"emwr",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"emmw",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"setsynjx",
+				"Set Syntax: JSX"
+			],
+			[
+				"emmetw",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"snippet rfce",
+				"Snippet: reactFunctionalExportComponent"
+			],
+			[
+				"esli",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"jspri",
+				"Preferences: JsPrettier Settings - Side-by-Side"
+			],
+			[
+				"lspjso",
+				"Preferences: LSP-json Settings"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lspes",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"lspty",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"formattiset",
+				"Formatter: Beautify With JS Beautifier"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disp cs",
+				"Package Control: Disable Package"
+			],
+			[
+				"jspre",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"eslinse",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"form",
+				"Formatter: Beautify With JS Beautifier"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"eslintse",
+				"Preferences: LSP-eslint Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 528.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"rbcl",
+			"aksjdfads",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog"
+	],
+	"file_history":
+	[
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/.jsbeautifyrc",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/EleventyBlog/.eleventy.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Context.sublime-menu",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/.eleventy.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/public/index.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/base.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/_includes/header.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/_includes/footer.njk",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/assets/logo.svg",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/src/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/.git/description",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/package.json",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Shell Turtlestein/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/.git/config",
+		"/Volumes/ExtremeSSD/_PROJECTS/JAMStack-blog-starter/.git/HEAD",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/App.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Snippets/impReact.sublime-snippet",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/index.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Snippets/importReact.sublime-snippet",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/App.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/reportWebVitals.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/tailwindcss-react-v1.sublime-project",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/App.css",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/TailwindCSS.sublime-syntax",
+		"/Users/mac/Library/Application Support/Sublime Text/.sublime/Local History/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/index-20210627015733.js",
+		"/Users/mac/Library/Caches/typescript/4.2/node_modules/@types/react-router-dom/index.d.ts",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/App.test.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/App.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/index.tailwind.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/logo.svg",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/public/index.html",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/layouts/LandingPage/index.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/pages/HomePage.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/components/Header.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Browser Sync/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/components/Header.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/src/pages/HomePage",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/.env",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v2/package.json",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/index.tailwind.css",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Footer.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Navbar.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Content.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/pages/about.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Side bar.sublime-menu",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/VCS Gutter/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/FileBrowser/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/File Navigator/Readme.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/CSSLint/CSSLint.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/auto_close/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/pages/menu.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Header.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Dropdown.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/TypeShort/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/AppendSemiColon/Default (OSX).sublime-keymap",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/AppendSemiColon/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/4GL/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/=BB= LSL/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/LSP-stylelint/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/AttrFold/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/AddToFile/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/All Autocomplete/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/pages/index.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Stylefmt/Stylefmt.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/EasyElement/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/components/Hero.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Syntax History/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/JsPrettier.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/AutoSoftWrap/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Tailwind CSS/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Babel/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/JavaScript Console/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Quick File Creator/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Easy Import/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/logo.svg",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/LSP-typescript/LSP-typescript.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/LSP-typescript.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/package.json",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/tailwind.config.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/craco.config.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/src/index.css",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/On Save/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/SublimeOnSaveBuild/README.md",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/Volumes/ExtremeSSD/_PROJECTS/tailwindcss-react-v1/.prettierrc",
+		"/Volumes/ExtremeSSD/_PROJECTS/react-tw-apps/apps/my-react-app/src/app/app.tsx",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/ESLint/README.md",
+		"/Volumes/ExtremeSSD/_PROJECTS/react-tw-apps/webpack-tailwind.config.js",
+		"/Volumes/ExtremeSSD/_PROJECTS/react-tw-apps/apps/my-react-app/src/main.tsx",
+		"/Volumes/ExtremeSSD/_PROJECTS/react-tw-apps/package-lock.json",
+		"/Users/mac/_pinegrow/tw-starting/beginner-tailwind-site/vite.config.js",
+		"/Users/mac/_pinegrow/tw-starting/beginner-tailwind-site/tailwind.source.css",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/some_file.js",
+		"/Users/mac/_pinegrow/alpineJs-examples/images.html",
+		"/Users/mac/_pinegrow/tw-starting/beginner-tailwind-site/index.html",
+		"/Users/mac/_pinegrow/tw-starting/beginner-tailwind-site/pinegrow.json",
+		"/Users/mac/_pinegrow/tw-starting/beginner-tailwind-site/some_file.js",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/index.html",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/bind_apply.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/docker-compose.yml",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/.env",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/Untitled1.js",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/TabNine/TabNine.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Quokka.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Quokka/Quokka.sublime-settings",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/main.go",
+		"/Users/mac/.zshrc",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/Dockerfile",
+		"/Users/mac/Library/Application Support/Sublime Text/.sublime/Local History/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/Dockerfile-20210624122143",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/Cmder/config/cmder.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/cmder.sublime-settings",
+		"/usr/local/Cellar/go/1.16.4/libexec/src/context/context.go",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/blog/blog.go",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/blog/static/style.css",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/blog/templates/post-header.html",
+		"/Users/mac/_GO_FROM_GITHUB/tagged-blog-mongodb/blog/templates/post-form.html",
+		"/Users/mac/Library/Application Support/Sublime Text/Packages/User/Projects/go-tagged-blog-mongodb.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": false,
+							"OUIB_last_update_timestamp": 0,
+							"apply_syntax_touched": true,
+							"at_wb_tests_view": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "./",
+									"selector": "source.python"
+								},
+								{
+									"characters": ":.(){}[],'\"=<>/\\+-|&*%=$#@! ",
+									"selector": "source & - source.python - constant.numeric"
+								},
+								{
+									"characters": " qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+									"selector": "text"
+								}
+							],
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+							"git_gutter_is_enabled": false,
+							"is_xml": false,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"rainbow_checked": true,
+							"rainbowth.lispy": false,
+							"syncScroll": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".eleventy.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 492,
+						"regions":
+						{
+							"better_bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							},
+							"rb_level0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										25,
+										26
+									],
+									[
+										40,
+										41
+									],
+									[
+										42,
+										43
+									],
+									[
+										490,
+										491
+									]
+								],
+								"scope": "level0.rb"
+							},
+							"rb_level1":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										80,
+										81
+									],
+									[
+										89,
+										90
+									],
+									[
+										127,
+										128
+									],
+									[
+										135,
+										136
+									],
+									[
+										148,
+										149
+									],
+									[
+										159,
+										160
+									],
+									[
+										170,
+										171
+									],
+									[
+										178,
+										179
+									],
+									[
+										209,
+										210
+									],
+									[
+										341,
+										342
+									],
+									[
+										372,
+										373
+									],
+									[
+										488,
+										489
+									]
+								],
+								"scope": "level1.rb"
+							},
+							"rb_level2":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										228,
+										229
+									],
+									[
+										236,
+										237
+									],
+									[
+										241,
+										242
+									],
+									[
+										340,
+										341
+									],
+									[
+										400,
+										401
+									],
+									[
+										487,
+										488
+									]
+								],
+								"scope": "level2.rb"
+							},
+							"rb_level3":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										277,
+										278
+									],
+									[
+										313,
+										314
+									],
+									[
+										323,
+										324
+									],
+									[
+										334,
+										335
+									],
+									[
+										436,
+										437
+									],
+									[
+										444,
+										445
+									],
+									[
+										447,
+										448
+									],
+									[
+										481,
+										482
+									]
+								],
+								"scope": "level3.rb"
+							},
+							"rb_level4":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										287,
+										288
+									],
+									[
+										312,
+										313
+									]
+								],
+								"scope": "level4.rb"
+							}
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"OUIB_is_dirty": false,
+							"OUIB_last_update_timestamp": 1624868819.66,
+							"apply_syntax_touched": true,
+							"at_wb_tests_view": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "./",
+									"selector": "source.python"
+								},
+								{
+									"characters": ":.(){}[],'\"=<>/\\+-|&*%=$#@! ",
+									"selector": "source & - source.python - constant.numeric"
+								},
+								{
+									"characters": " qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+									"selector": "text"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-typescript"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										488,
+										489
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										372,
+										373
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": true,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"rainbow_checked": true,
+							"rainbowth.lispy": false,
+							"rb_syntax": "javascript",
+							"show_definitions": false,
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.665735504027,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.GitSavvy":
+	{
+		"height": 174.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 192.0
+	},
+	"output.diagnostics":
+	{
+		"height": 209.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 185.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 174.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "EleventyBlog.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".eleventy.js"
+			],
+			[
+				"ht",
+				"public/index.html"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"js",
+				"tailwindcss-react-v2/src/App.js"
+			],
+			[
+				"ap",
+				"tailwindcss-react-v1/src/App.js"
+			],
+			[
+				"re",
+				"tailwindcss-react-v1/README.md"
+			],
+			[
+				"in",
+				"tailwindcss-react-v1/src/index.js"
+			],
+			[
+				"htm",
+				"tailwindcss-react-v1/public/index.html"
+			],
+			[
+				"he",
+				"tailwindcss-react-v2/src/components/Header.js"
+			],
+			[
+				"app",
+				"tailwindcss-react-v1/src/App.js"
+			],
+			[
+				"ind",
+				"tailwindcss-react-v1/src/index.js"
+			],
+			[
+				"foo",
+				"src/components/Footer.js"
+			],
+			[
+				"ins",
+				"src/index.js"
+			],
+			[
+				"css",
+				"src/index.css"
+			],
+			[
+				"nav",
+				"src/components/Navbar.js"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"un",
+				"Untitled1.js"
+			],
+			[
+				"u",
+				"Untitled1.js"
+			],
+			[
+				"m",
+				"main.go"
+			],
+			[
+				"ma",
+				"main.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/ExtremeSSD/_PROJECTS/react-tw-apps/react-tw-apps.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,20 @@
+VAR:
+	curlylint: "/usr/local/bin/curlylint"# variable
+ENV:
+	PATH: /usr/bin/ # environment variable
+CONSOLE : right
+
+LISTENER:
+	-	CMD : $curlylint $FILE
+		CONSOLE : right
+		WATCH : */*.njk, 
+		# EXCLUDE: test.js
+		TIMEOUT : 1000
+
+	# -	CMD : echo "Hello $FILE again"
+
+#  $ROOT       = .onsave file directory
+#  $FILE       = current file path
+#  $FILENAME   = current file name
+#  $BASENAME   = current file name, not postfix
+#  $DIR        = current file directory
